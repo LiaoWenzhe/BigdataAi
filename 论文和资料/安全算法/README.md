@@ -1,10 +1,13 @@
 # AI-Security-Learning
 
+
+
+
 自身学习的安全数据科学和ai安全算法的学习资料
 
-项目地址： <https://github.com/0xMJ/AI-Security-Learning>
+参考项目地址： <https://github.com/0xMJ/AI-Security-Learning>
 
-最近更新日期为：2020/07/24
+最近更新日期为：2021/05/23
 
 同步更新于： [Mang0: AI-Security-Learning](http://mang0.me/archis/eed6fa1/)
 
@@ -13,7 +16,6 @@
 廖文哲更新：
 https://zhuanlan.zhihu.com/p/25139556
 https://github.com/duoergun0729/1book
-
 
 新增：
 
