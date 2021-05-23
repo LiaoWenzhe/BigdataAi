@@ -14,21 +14,37 @@
 廖文哲更新：
 
 1.https://www.cnblogs.com/bonelee/p/7777217.html
+
 2.http://web.stanford.edu/class/cs259d/
+
 3.CS259D: Data Mining for CyberSecurity, 课程网址：http://web.stanford.edu/class/cs259d/
+
 4.楚安，数据科学在Web威胁感知中的应用，http://www.jianshu.com/p/942d1beb7fdd
+
 5.McPAD : A Multiple Classifier System for Accurate Payload-based Anomaly Detection, Roberto Perdisci
+
 6.AI2 : Training a big data machine to defend, Kalyan Veeramachaneni
+
 7.刘焱：web与机器学习入门，web安全与深度学习实战，
+
 8.微信公众号：兜哥带你学安全。
+
 9.https://cloud.tencent.com/developer/article/1043694
+
 10.http://blog.nsfocus.net/web-anomaly-detection-based-machine-learning/
+
 11.https://github.com/mylamour/machine-learning-for-security
+
 12.https://github.com/0xMJ/AI-Security-Learning
+
 13.https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security
+
 14.https://github.com/duoergun0729/1book
+
 15.https://zhuanlan.zhihu.com/p/25139556
+
 16.https://github.com/duoergun0729/1book
+
 
 
 新增：
