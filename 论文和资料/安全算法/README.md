@@ -9,8 +9,6 @@
 
 最近更新日期为：2021/05/23
 
-同步更新于： [Mang0: AI-Security-Learning](http://mang0.me/archis/eed6fa1/)
-
 [TOC]
 
 廖文哲更新：
