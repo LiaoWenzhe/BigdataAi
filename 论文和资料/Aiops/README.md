@@ -24,3 +24,4 @@
 12. https://github.com/Tencent/Metis
 13. https://github.com/linjinjin123/awesome-AIOps
 14. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/
+15. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
