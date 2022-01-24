@@ -3,4 +3,4 @@
   
 最近更新日期为：2021/12/24<br><br>
 **拒绝白嫖，欢迎star！**<br>
-最近组建了个大数据安全分析/AIOPS/风控的技术交流群，欢迎志同道合的朋友们与我联系加入！&emsp;&emsp;<img width="100" height="100" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
+笔者组建了个AIOPS/风控/数据安全技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
