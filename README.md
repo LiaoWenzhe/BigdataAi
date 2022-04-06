@@ -3,9 +3,14 @@
   
 ## 代表项目
 
-- [AIOPS：大规模异常检测系统-算法与工程架构](https://zhuanlan.zhihu.com/p/466955597)
-- [公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473181002)
-- [公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
+- [1. AIOPS：大规模异常检测系统-算法与工程架构](https://zhuanlan.zhihu.com/p/466955597)
+- [2. 运营商区域覆盖率预测](https://zhuanlan.zhihu.com/p/494103464)
+- [3. 基于小区画像的数据挖掘建模](https://zhuanlan.zhihu.com/p/494105801)
+- [4. 视频初缓机器学习专项分析](https://zhuanlan.zhihu.com/p/494106978)
+- [5. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
+- [6. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
+- [7. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473181002)
+- [8. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
 
 ## 资料汇总
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
