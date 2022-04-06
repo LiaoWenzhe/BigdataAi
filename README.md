@@ -3,7 +3,7 @@
   
 ## 代表项目
 
-- [AIOPS:大规模异常检测系统-算法架构](https://zhuanlan.zhihu.com/p/466955597)
+- [AIOPS：大规模异常检测系统-算法与工程架构](https://zhuanlan.zhihu.com/p/466955597)
 - [公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473181002)
 - [公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
 
