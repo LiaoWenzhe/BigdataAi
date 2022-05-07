@@ -2,13 +2,13 @@
 介绍Liao Wenzhe的主要代表作品，欢迎志同道合的朋友随时和我联系.
   
 ## 代表项目
-
-- [1. AIOPS：大规模异常检测系统-算法与工程架构](https://zhuanlan.zhihu.com/p/466955597)
-- [2. 运营商区域覆盖率预测](https://zhuanlan.zhihu.com/p/494103464)
-- [3. 基于小区画像的数据挖掘建模](https://zhuanlan.zhihu.com/p/494105801)
-- [4. 视频初缓机器学习专项分析](https://zhuanlan.zhihu.com/p/494106978)
-- [5. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
-- [6. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
+- [1. 数据安全智能风控落地实践](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
+- [2. AIOPS：大规模异常检测系统-算法与工程架构](https://zhuanlan.zhihu.com/p/466955597)
+- [3. 运营商区域覆盖率预测](https://zhuanlan.zhihu.com/p/494103464)
+- [4. 基于小区画像的数据挖掘建模](https://zhuanlan.zhihu.com/p/494105801)
+- [5. 视频初缓机器学习专项分析](https://zhuanlan.zhihu.com/p/494106978)
+- [6. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
+- [7. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
 
 ## 公司演讲
 - [1. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
