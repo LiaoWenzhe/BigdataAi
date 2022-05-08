@@ -14,11 +14,12 @@
 ## 公开演讲与分享
 - [1. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
 - [2. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
+- [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
+- [4. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
 
 ## 资料汇总
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
-
 
 
 <br><br>
