@@ -3,7 +3,8 @@
   
 ## 代表项目
 - [1. 数据安全智能风控落地实践](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
-- [2. AIOPS：大规模异常检测系统-算法与工程架构](https://zhuanlan.zhihu.com/p/466955597)
+- [2. AIOPS：大规模异常检测系统-算法架构](https://zhuanlan.zhihu.com/p/466955597)
+- [2. AIOPS：大规模异常检测系统-工程架构](https://zhuanlan.zhihu.com/p/511095084)
 - [3. 运营商区域覆盖率预测](https://zhuanlan.zhihu.com/p/494103464)
 - [4. 基于小区画像的数据挖掘建模](https://zhuanlan.zhihu.com/p/494105801)
 - [5. 视频初缓机器学习专项分析](https://zhuanlan.zhihu.com/p/494106978)
