@@ -11,7 +11,7 @@
 - [6. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
 - [7. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
 
-## 公开演讲与分享
+## 代表公开演讲与分享
 - [1. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
 - [2. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
 - [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
