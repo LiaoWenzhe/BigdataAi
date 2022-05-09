@@ -19,8 +19,8 @@
 
 ## 技术专栏
 - [AiSecOps(智能安全运维)](https://www.zhihu.com/column/c_1471819989803700224)
-- 
-## 资源汇总
+
+- ## 资源汇总
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
