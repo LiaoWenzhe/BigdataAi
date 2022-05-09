@@ -21,6 +21,10 @@
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
+## 技术专栏
+- [AiSecOps(智能安全运维)](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
+
+https://www.zhihu.com/column/c_1471819989803700224
 
 <br><br>
 最近更新日期为：2021/12/24<br><br>
