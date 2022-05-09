@@ -17,14 +17,16 @@
 - [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
 - [4. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
 
-## 资料汇总
+## 技术专栏
+- [AiSecOps(智能安全运维)](https://www.zhihu.com/column/c_1471819989803700224)
+- 
+## 资源汇总
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
-## 技术专栏
-- [AiSecOps(智能安全运维)](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 
-https://www.zhihu.com/column/c_1471819989803700224
+
+
 
 <br><br>
 最近更新日期为：2021/12/24<br><br>
