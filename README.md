@@ -17,8 +17,9 @@
 - [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
 - [4. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
 
-## 技术专栏
+## 技术专栏与博客
 - [AiSecOps(智能安全运维)](https://www.zhihu.com/column/c_1471819989803700224)
+- [liao wennzhe的博客（记录工作与生活）](https://blog.csdn.net/Liao_Wenzhe?spm=1000.2115.3001.5343)
 
 ## 资源汇总
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
