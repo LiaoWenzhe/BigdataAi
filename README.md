@@ -7,7 +7,9 @@
 - [2. AIOPS：大规模异常检测系统-工程架构](https://zhuanlan.zhihu.com/p/511095084)
 - [3. 运营商区域覆盖率预测](https://zhuanlan.zhihu.com/p/494103464)
 - [4. 基于小区画像的数据挖掘建模](https://zhuanlan.zhihu.com/p/494105801)
-- [5. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
+- [5. 视频初缓机器学习专项分析](https://zhuanlan.zhihu.com/p/494106978)
+- [6. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
+- [7. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
 
 ## 代表公开演讲与分享
 - [1. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
