@@ -1,34 +1,33 @@
-
-## 介绍Liao Wenzhe的主要代表作品和经历，欢迎志同道合的朋友随时和我联系
+## Introduce the main representative works and experiences of Liao Wenzhe, welcome friends with the same aspiration to contact me at any time
 <br>
 
  [中文简体](README.md) | English<br>
  
 <br>
  
-## 代表项目
-- [1. 数据安全智能风控0-1落地实践](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
-- [2. AIOPS：大规模异常检测系统-算法架构](https://zhuanlan.zhihu.com/p/466955597)
-- [2. AIOPS：大规模异常检测系统-工程架构](https://zhuanlan.zhihu.com/p/511095084)
-- [3. 运营商区域覆盖率预测](https://zhuanlan.zhihu.com/p/494103464)
-- [4. 基于小区画像的数据挖掘建模](https://zhuanlan.zhihu.com/p/494105801)
-- [5. 视频初缓机器学习专项分析](https://zhuanlan.zhihu.com/p/494106978)
-- [6. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
-- [7. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
+## represents the item
+- [1. Data Security Intelligent Risk Control 0-1 Implementation](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
+- [2. AIOPS: Large-scale Anomaly Detection System-Algorithm Architecture](https://zhuanlan.zhihu.com/p/466955597)
+- [2. AIOPS: Large-scale Anomaly Detection System-Engineering Architecture](https://zhuanlan.zhihu.com/p/511095084)
+- [3. Operator area coverage forecast](https://zhuanlan.zhihu.com/p/494103464)
+- [4. Data mining modeling based on community portraits](https://zhuanlan.zhihu.com/p/494105801)
+- [5. Special Analysis of Video Preliminary Machine Learning](https://zhuanlan.zhihu.com/p/494106978)
+- [6. Big Data Prediction Based on RNN Recurrent Neural Network](https://zhuanlan.zhihu.com/p/494108267)
+- [7. Cell address text matching based on cosine and improved elastic distance](https://zhuanlan.zhihu.com/p/494110582)
 
-## 代表公开演讲与分享
-- [1. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
-- [2. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
-- [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
-- [4. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
+## Representative public speaking and sharing
+- [1. Company speech: learn how to learn](https://zhuanlan.zhihu.com/p/473166623)
+- [2. Company Speech: The Charm of Reading](https://zhuanlan.zhihu.com/p/473181002)
+- [3. What is a good way to cluster time series? ](https://www.zhihu.com/question/50656303/answer/2442538806)
+- [4. What does an algorithm engineer generally do? ](https://www.zhihu.com/question/68126029/answer/2424624581)
 
-## 技术专栏与博客
-- [AiSecOps(智能安全运维)](https://www.zhihu.com/column/c_1471819989803700224)
-- [liao wennzhe的博客（记录工作与生活）](https://blog.csdn.net/Liao_Wenzhe?spm=1000.2115.3001.5343)
+## Technical column and blog
+- [AiSecOps (Intelligent Security Operation and Maintenance)](https://www.zhihu.com/column/c_1471819989803700224)
+- [liao wennzhe's blog (recording work and life)](https://blog.csdn.net/Liao_Wenzhe?spm=1000.2115.3001.5343)
 
-## 资源汇总
-- [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
-- [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
+## Resource summary
+- [AIOPS Learning Resources](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
+- [Data Security Risk Control Learning Resources](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
 
 
