@@ -4,7 +4,7 @@
 
  中文简体 | [English](README_en.md)<br>
  
-<br><br>
+<br>
  
 ## 代表项目
 - [1. 数据安全智能风控0-1落地实践](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
