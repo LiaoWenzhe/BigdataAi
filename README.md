@@ -21,6 +21,7 @@
 - [2. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
 - [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
 - [4. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
+- [5. 廖文哲的工作总结](https://zhuanlan.zhihu.com/p/463458646)
 
 ## 技术专栏与博客
 - [AiSecOps(智能安全运维)](https://www.zhihu.com/column/c_1471819989803700224)
