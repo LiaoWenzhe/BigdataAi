@@ -5,7 +5,10 @@
  中文简体 | [English](README_en.md)<br>
  
 <br>
- 
+
+最近更新日期为：2022/8/1<br><br>
+
+<br><br>
 ## 代表公开演讲
 - [1. isc2022主题演讲：AI驱动API安全风险检测与运营](https://zhuanlan.zhihu.com/p/548450688)
 
@@ -35,12 +38,7 @@
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
-
-
-
-
 <br><br>
-最近更新日期为：2022/5/1<br><br>
 **拒绝白嫖，欢迎star！**<br><br>
 笔者组建了个AIOPS/风控/数据安全技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 
