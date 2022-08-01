@@ -6,6 +6,9 @@
  
 <br>
  
+## 代表公开演讲
+- [1. isc2022主题演讲：AI驱动API安全风险检测与运营](https://zhuanlan.zhihu.com/p/548450688)
+
 ## 代表项目
 - [1. 数据安全智能风控0-1落地实践](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
 - [2. AIOPS：大规模异常检测系统-算法架构](https://zhuanlan.zhihu.com/p/466955597)
@@ -16,12 +19,13 @@
 - [6. 基于RNN循环神经网络的大数据预测](https://zhuanlan.zhihu.com/p/494108267)
 - [7. 基于余弦和改进弹性距离的小区地址文本匹配](https://zhuanlan.zhihu.com/p/494110582)
 
-## 代表公开演讲与分享
-- [1. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
-- [2. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
-- [3. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
-- [4. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
-- [5. 廖文哲的工作总结](https://zhuanlan.zhihu.com/p/463458646)
+## 代表公开分享
+- [1. 廖文哲的工作总结](https://zhuanlan.zhihu.com/p/463458646)
+- [2. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
+- [3. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
+- [4. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
+- [5. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
+
 
 ## 技术专栏与博客
 - [AiSecOps(智能安全运维)](https://www.zhihu.com/column/c_1471819989803700224)
