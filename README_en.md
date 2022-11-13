@@ -10,7 +10,7 @@
 &emsp;&emsp;<a href="https://blog.csdn.net/liao_wenzhe/category_11205437.html?spm=1001.2014.3001.5482"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/></a>
 &emsp;&emsp;<a href="https://blog.csdn.net/liao_wenzhe/category_11991754.html"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/></a>
 
-<br />
+
 ## represents the item
 - [1. Data Security Intelligent Risk Control 0-1 Implementation](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
 - [2. AIOPS: Large-scale Anomaly Detection System-Algorithm Architecture](https://zhuanlan.zhihu.com/p/466955597)
