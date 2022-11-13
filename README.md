@@ -9,15 +9,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>
 &emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>
 &emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
-&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
 &emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>
 
+<br />
 最近更新日期为：2022/11/1
 
-<br>
-<img width="180" height="180" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/> 
-&emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat1.jpg"/>
-&emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat2.jpg"/>
 
 ## 代表公开演讲
 - [1. isc2022主题演讲：AI驱动API安全风险检测与运营](https://zhuanlan.zhihu.com/p/548450688)
