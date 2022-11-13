@@ -1,10 +1,10 @@
 
 ## 介绍Liao Wenzhe的主要代表作品和经历，欢迎志同道合的朋友随时和我联系
-
+<br />
 
  中文简体 | [English](README_en.md)
  
-
+<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>
 &emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>
 &emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
