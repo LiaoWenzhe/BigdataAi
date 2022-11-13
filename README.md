@@ -2,7 +2,7 @@
 ## 介绍Liao Wenzhe的主要代表作品和经历，欢迎志同道合的朋友随时和我联系
 <br>
 
- 中文简体 | [English](README_en.md)<br>
+ 中文简体 | [English](README_en.md)
  
 <br />
 <br>
