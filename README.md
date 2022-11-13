@@ -7,12 +7,12 @@
  
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>
-&emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>
-&emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
-&emsp;<img width="140" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>
+&emsp;&emsp;&emsp;&emsp;&emsp;<img width="160" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>
+&emsp;<img width="160" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>
+&emsp;<img width="160" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
+&emsp;<img width="160" height="80" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>
 
-
+<br>
 最近更新日期为：2022/11/1
 
 
