@@ -7,10 +7,10 @@
  
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/LiaoWenzhe/BigdataAi"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>
-&emsp;&emsp;<img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>
-&emsp;&emsp;<img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
-&emsp;&emsp;<img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://zhuanlan.zhihu.com/p/548450688"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>
+&emsp;&emsp;<a href="https://zhuanlan.zhihu.com/p/466955597"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>
+&emsp;&emsp;<a href="https://blog.csdn.net/liao_wenzhe/category_11205437.html?spm=1001.2014.3001.5482"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>
+&emsp;&emsp;<a href="https://blog.csdn.net/liao_wenzhe/category_11991754.html"><img width="150" height="90" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>
 
 <br>
 最近更新日期为：2022/11/1
