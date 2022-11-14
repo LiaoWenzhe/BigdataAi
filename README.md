@@ -47,7 +47,7 @@
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
 ## 主要奖项
-- Aug 2022: 🎉 [ISC2022 Speaker](https://zhuanlan.zhihu.com/p/548450688)
+- Aug 2022: 🎉 [ISC 2022 Speaker](https://zhuanlan.zhihu.com/p/548450688)
 - Feb 2021: 🎉 [浙江移动SRE比赛一等奖，诺基亚中国区数据挖掘竞赛三等奖](https://mp.weixin.qq.com/s/rNfTsBwkObugx2lmubY6Zw)
 - Feb 2019: 🎉 诺基亚中国区数据挖掘竞赛二等奖
 - Feb 2018: 🎉 诺基亚中国区数据挖掘竞赛一等奖
