@@ -46,6 +46,15 @@
 - [AIOPS学习资源](https://github.com/LiaoWenzhe/Aiops-Learning-Resources)
 - [数据安全风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources)
 
+## 主要奖项
+- Aug 2022: 🎉 [ISC2022 Speaker](https://zhuanlan.zhihu.com/p/548450688)
+- Feb 2021: 🎉 [浙江移动SRE比赛一等奖，诺基亚中国区数据挖掘竞赛三等奖](https://mp.weixin.qq.com/s/rNfTsBwkObugx2lmubY6Zw)
+- Feb 2019: 🎉 诺基亚中国区数据挖掘竞赛二等奖
+- Feb 2018: 🎉 诺基亚中国区数据挖掘竞赛一等奖
+- Dec 2017: 🎉 诺基亚中国区-华诺校招生先锋计划（Top 10% of 200 people）
+ 
+ 
+ 
 <br><br>
 **拒绝白嫖，欢迎star！**<br><br>
 笔者组建了个AIOPS/风控/数据安全技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！ <br> <br><br>
