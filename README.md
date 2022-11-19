@@ -34,8 +34,7 @@
 - [2. 《硅谷来信》有感](https://zhuanlan.zhihu.com/p/463458879)
 - [3. 公司演讲：学会如何学习](https://zhuanlan.zhihu.com/p/473166623)
 - [4. 公司演讲：阅读的魅力](https://zhuanlan.zhihu.com/p/473181002)
-- [5. 时间序列的聚类有什么好方法？](https://www.zhihu.com/question/50656303/answer/2442538806)
-- [6. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
+- [5. 算法工程师大致是做什么的？](https://www.zhihu.com/question/68126029/answer/2424624581)
 
 
 ## 技术专栏与博客
